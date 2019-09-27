@@ -1,0 +1,24 @@
+# Ephemeral Workstations
+
+- Ansible to set up your developmemnt environment as code
+- Kickstart versus post-install
+- Use modules if available (user versus `chsh`)
+- Jessie Frazelle - developer who has done a lot of work in desktop containerization
+- To start list what you want to persist across workstations
+- Persistent data:
+  - Backups
+  - Git
+  - GDrive / OneDrive
+- Config data versus Hard data versus secure data (login)
+- Veracrypt (new-age truecrypt)
+- VeraCrypt/Arclone/encrypted backups
+- Snap, Flatpack, addimage - new packaging
+- Ansible Galaxy - modules ??? trust
+- Work the way I want versus achieve the objective
+- Personal machine - long-lived data as a risk
+- Kiosk resets / employee laptop onboarding / cloud/thin-client
+- SyncThing: sync changes for specific files live!
+- Take time to research bugs
+- Restic backup client
+- Github cohoe workstation
+- What would freak you out if your own workstation laptop was blown away?

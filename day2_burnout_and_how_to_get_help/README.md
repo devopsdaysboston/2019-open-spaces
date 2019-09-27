@@ -1,0 +1,41 @@
+# Burnout & How To Get Help
+
+- MBI-GS survey to test for burn out
+- ICD-10, Z73.0
+- Some symptoms
+  - Less sleep
+  - Emotional exhaustion
+  - Underwhelmed at accomplishments
+- Dr. Christina Maslach - Maslach Burnout Inventory
+- Proper communication can help
+- Need to foster good feedback
+- Is no news good news? #feedback
+- Burnout in small teams (tight budget or startup)
+- Prioritize self over work
+- Saying NO
+  - Individuals
+  - Teams
+  - (Throttling work)
+- Dialogue about joy of current work w/ manager
+- Try to spread out the dull work
+- Say "Yes if...", give what is required for a yes
+- Proof
+- Pair programming can help colleagues feel engaged with greater frequency
+- How do you know / what does it look like?
+- How to help your colleagues
+- Employ assistance program EAP to help with employee health
+- Incentivize work life balance
+- It's scotch o'clock (fun Fridays after hours)
+- How to tell if team members are "off"
+  - "I'm fine"
+  - Body language
+  - Energy levels
+- Mindfulness programs
+- Different vernacular than "burnout":
+  - Disengaged
+  - Depersonalized
+  - Cynical
+- In-company monitoring
+- Know your team and check in frequently
+- Burnout book (Nagoski)
+- Take a vacation
