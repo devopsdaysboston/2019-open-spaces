@@ -2,6 +2,7 @@
 
 This repo is for storing photos and transcriptions of open spaces **post-it whiteboards**, a mechanism to capture the essence of the conversation for later reference. The primary goal of transcription is to promote accessibility in all aspects of the conference.
 
+![](https://github.com/devopsdaysboston/2019-open-spaces/raw/master/20190924_AllTheThings.jpg)
 
 # Contributions
 
