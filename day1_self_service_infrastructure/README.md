@@ -1,0 +1,25 @@
+# Self-service Infrastructure
+
+- Self-service lets engineers go faster so they embrace it
+- Nike "minimum viable compliance"
+- Self-service with bumpers - provide patterns
+- Friction on managing special builds / infrastructure
+- What is the DevOps role?
+- What are my lego bricks?
+- What is ___ infrastructure?
+- Not just ops on call, Dev+Ops pair on call
+- PTWS Config to detect bad things
+- Terralith to Terra Services
+- Dev wild west - process to go live
+- Barriers to adoption:
+  - Management
+  - Senior teams
+- Self-service in 'regulated' versus not regulated
+- Process as code!
+- 95% straightforward, 5% hard and special
+- What are the support boundaries?
+- Sell guardrails as they are here to help you (to the devs) to meet compliance needs
+- Atlantis to help understand change impact (for terraform)
+- "Infrastructure is not my problem" devs
+- Developers own production
+- Culture - support needs to come from top-down
