@@ -1,0 +1,48 @@
+# Challenges Managing K8s
+- Limit Registry for security.
+- Have to enable audit logging in K8s. Off by default.
+- Managing K8s manifests.
+- Developer autonomy.
+- Resource right sizing.
+- Cluster autoscaler can be tricky.
+- OPA - Open Policy Agent.
+- AKS is great!
+- "Talks might get recorded, OpenSpaces doesn't...why I'm here!"
+- APM everywhere.
+- Easy rollback, canary, A/B deploys.
+- Self service.
+- Devs need to make / metrics tabs (+ health checks).
+- eks ctl fun weave roles.
+- Cluster upgrades painful.
+- App per namespace, cluster per env.
+- Upgrades: in place, or new cluster?
+- Autoscaling: vertical, horizontal, cluster.
+- Cluster API is becoming a standard.
+- Tiller is insecure.
+- CI/CD vuln scans on containers.
+- Apps/Devs need to output metrics/healthchecks.
+- Avoid state in k8s apps.
+- Avoid app state!# Ephemeral Workstations
+
+- Ansible to set up your developmemnt environment as code
+- Kickstart versus post-install
+- Use modules if available (user versus `chsh`)
+- Jessie Frazelle - developer who has done a lot of work in desktop containerization
+- To start list what you want to persist across workstations
+- Persistent data:
+  - Backups
+  - Git
+  - GDrive / OneDrive
+- Config data versus Hard data versus secure data (login)
+- Veracrypt (new-age truecrypt)
+- VeraCrypt/Arclone/encrypted backups
+- Snap, Flatpack, addimage - new packaging
+- Ansible Galaxy - modules ??? trust
+- Work the way I want versus achieve the objective
+- Personal machine - long-lived data as a risk
+- Kiosk resets / employee laptop onboarding / cloud/thin-client
+- SyncThing: sync changes for specific files live!
+- Take time to research bugs
+- Restic backup client
+- Github cohoe workstation
+- What would freak you out if your own workstation laptop was blown away?

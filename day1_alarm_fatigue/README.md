@@ -1,0 +1,20 @@
+# Alarm Fatigue (stop hitting yourself)
+- Hacker News thread defending hiding rewards for fixing outages to avoid incentivizing outages :disappointed:
+- Goodhart's Law: "Once a measure becomes a target, it ceases to be a good measure."
+- Dark side of optimizing for business impact -> you get what you incentivize.
+- Many orgs have lack of responsibility & ownership of business processes.
+- "It was this or pig farming" - challenge of retraining people who'd been taught not to communicate.
+- PMs willing to block for the team.
+- "How do we deprogram people who come from a crappy environment?" slow, can blow up teams.
+- Better feedback loops + knowledge sharing could help.
+- Analogy to love languages - what is reinforced? Business end: not everyone can be reached, so how to make money?
+- Reinforcement is important & tricky to do. It's easier to create interaction problems than solve them.
+- How do you deliver negative feedback / give people constructive areas of improvement?
+- Make sure you're communicating well and being detailed.
+- It's the process not the person.
+- Steam game: Don't Touch Anything. Sometimes doing nothing is the right answer.
+- Steam game: Keep Talking and Nobody Explodes.
+- Let's work to solve better, then solve more.
+- Is this a problem? Or is it a context switching problem?
+- Alarm fatigue is bad for humans & infrastructure. It's a kind of cultural / design anti-pattern.
+- Assume positive intent and help provide feedback.
