@@ -1,0 +1,17 @@
+# DevOps on the scale of an individual, mental health, personal wellness
+- Systems thinking
+- theory of constraints, left to right flows in our personal lives
+- humans aren't rational agents, "we write ourselves like we write 3rd party vendors"
+- asking for help
+- personal debt
+- resentment
+- heroics in a company / heroics internally
+- punishing failure discourages change
+- blame is familiar, forces you to be better, protects you
+- ideologies of minimizing MTTR vs never failing
+- right to left flows: underlying cause, 5 whys. was there a problem, what decision lead to it, what predictions led to that decision, what models led to that prediction
+- tighter loops, shorter release/deploy cycles for self-improvement, iterative change. bullet journaling and socialization as strategies for this.
+- visibility
+- unplanned work, "Making Work Visible" by Dominica Degrondes
+- keeping track of your time, false sense of personal capacity
+- self-communication skills; interpersonal vs intra-personal boundaries
