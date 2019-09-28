@@ -1,0 +1,63 @@
+# Documentation
+
+- API documents
+  - Generated from code
+  - Design gets out of date because devs don't update (Git)
+  - Code comments are an anti-pattern
+  - Document the unit tests
+- If you don't document on the hook to own!
+- Culture of documentation...
+  - Templates for documentation
+  - API doc build with the code
+  - Custom fields for build / agile tools
+  - Add line items to existing checks
+  - Checklists help
+- Can you build a doc page from a YAML file?
+- How to improve
+  - Templates
+  - Workshops
+  - Diversity in skill sets
+  - Have a writer "draft" content and have engineers proof
+  - Use grammar checkers
+  - Outlines are very helpful
+  - Need to link to search
+- Doc is hard and can be hard to understand well enough to describe
+- How can we get people to write documentation?
+- How do you deal with zombie pages?
+  - Archive
+  - Delete
+  - Can track pages viewed / updated and archive if old
+- Agile
+  - Do you add story points for documentation?
+  - Based on time
+- Acceptance criteria includes documentation
+- Machine consumable documentation
+- Easy to find / easy to search / want documentation to be:
+  - Searchable
+  - Browsable
+- Goal: Track page hits to track popular pages
+  - Freshness
+  - App owner should be updating
+- Single source of truth
+  - Easily findable
+- Option: Add to CI/CD pipeline: R.O. wiki pages
+- Need access to pages. READMEs in git aren't accessible
+- Use agile process for periodic (?)
+- How do you collect metrics on documentation? Hard with Confluence
+- What is too much documentation?
+  - Unit tests are best documents
+- DevOps - APIs are user specific
+- List Slack questions to get content ideas
+- Info. architecture that lists the children and what's available
+  - Solution: Internal know.(?) manager to manage wikis
+  - Solution: Need way to deprecate pages
+- Service directory to help with IA. Let mode of service & beta (?)
+- Accredation to update the single source of truth
+- Templates are effective for consistency
+  - Structure
+  - Questions
+  - Ref guide
+  - On call guide
+- Ref guide - Owner, what it does, how it works
+  On call - troubleshooting
+- How to get up and running / purpose
