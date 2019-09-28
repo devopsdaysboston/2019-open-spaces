@@ -1,0 +1,27 @@
+# DevOps In Regulated Industries
+
+- Life insurance is regulated
+- What does DevOps looks like in a regulated industry
+- Zero trust can motivate cloud
+- What is DevOps
+- "Making it not my problem"
+- Who makes a good security person?
+  - QA + compliance
+- We are from
+  - Insurance
+  - Fin tech
+  - Social networking
+  - Healthcare
+- Access to logs is OK if logs are clean
+- Use inspec
+- Regimes
+  - HIPAA
+  - SEC
+  - PCI <-
+  - SOC 2
+  - GDPR
+- Everyone should be trained in HIPPA / security
+- Isolated databases are hard
+- Scan logs with:
+  - Regex
+  - ?
