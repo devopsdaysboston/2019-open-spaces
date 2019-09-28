@@ -1,0 +1,26 @@
+# Tech Labor: unions and co-ops
+
+- How do you organize while staying protected?
+- It's hard to get "standing" to take action
+- People who run markets have a lot of influence
+- Unions are an "insurance policy" for workers with lots of re-orgs and mergers
+- Guilds and professional societies are another option
+- People respond to incentives - cooperation versus competition
+- What does "worker power" actually mean to you?
+- If compensation kept up with productivity, people wouldn't be as upset
+- How can unions or co-ops become reality today?
+- What if disrupting an industry had a cost to help former workers?
+- We could shut down Amazon - if enough of us wanted to
+- Put union reps on company boards
+- This didn't break in a day - we may not fix it in one
+- Society-wide problems require society-wide solutions
+- Countries are international, which makes "one size fits all" harder
+- Segregation directly hurt union strength
+- Companies gave programmers some power to keep them content
+- How do tech workers compete with big co's with lawyers?
+- Unions can be too protectionist within their niche
+  - Innovation and growth can suffer
+  - Unions feel "under siege" especially due to public funding cuts
+- Urban versus non-urban matters - are there other employers?
+- Companies may respond irrationally to labor disputes
+- How Organizations Develop Activists (book)
