@@ -5,6 +5,8 @@ Data that is small enough for human comprehension
 - What are some examples of small data?
 - How do we use small data in our daily work?
 
+---
+
 - "Human comprehension" - what is the barrier for tools?
 - Small enough to fit on "one page"
 - Does "human comprehension" mean processing or retaining?
